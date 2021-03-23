@@ -1,0 +1,14 @@
+.container-outer{
+    margin: 0;
+    padding: 0;
+  
+      .container-main{
+          height: 20px;
+          padding: 20px !important;
+          background-color: #4ab;
+          margin: 10px 0 0 0;
+          border: none;
+          border-radius: 3px;
+          box-shadow: 1px 3px 2px 1px rgba(0,0,0,.3);
+      }
+  }
